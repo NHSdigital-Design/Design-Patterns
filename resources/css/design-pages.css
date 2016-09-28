@@ -1,0 +1,15 @@
+/*!
+ * Design Patterns
+ * Copyright 2016 NHS Digital
+ * Licensed under NHS Digital
+ */
+ul,li .menu-list {
+    margin-left:40px;
+    padding: 30px 0px;
+    list-style-type: none;
+}
+ul.numbered-list {
+    margin-left:40px;
+    padding: 30px 3px;
+    list-style-type: decimal;
+}
